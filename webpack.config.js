@@ -27,6 +27,11 @@ module.exports = {
     }),
   ],
 
+  output: {
+    publicPath: '/gourmet-site-webpack/', 
+    // ...
+},
+
   // ESTE ES EL ÚNICO BLOQUE 'module'
   module: { 
     rules: [
