@@ -1,0 +1,11 @@
+
+# Ignorar carpeta de dependencias
+/node_modules
+
+# Ignorar la carpeta de compilación de Webpack (cambia 'dist' si usas otro nombre)
+/dist
+
+# Ignorar archivos temporales
+.DS_Store
+.env
+npm-debug.log*
