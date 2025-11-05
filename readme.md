@@ -49,8 +49,8 @@ saga-restaurant/
 │   └── index.js           # Application entry point
 ├── .gitignore
 ├── package.json
-└── webpack.config.js      # Webpack configuration```
-
+└── webpack.config.js      # Webpack configuration
+```
 **Link**
  https://sandras2430.github.io/gourmet-site-webpack/
 
