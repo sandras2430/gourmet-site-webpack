@@ -51,6 +51,9 @@ saga-restaurant/
 ├── package.json
 └── webpack.config.js      # Webpack configuration
 
+**Page**
+ https://sandras2430.github.io/gourmet-site-webpack/
+
 Important: On Responsiveness
 This project is intentionally not responsive and is optimized for desktop viewing.
 Application Logic
