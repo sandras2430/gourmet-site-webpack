@@ -66,4 +66,4 @@ template.html: Provides the static HTML structure, including the <header> with n
 ***Acknowledgments***
 Foto de <a href="https://unsplash.com/es/@angelovehearts?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Angelica Jasmin</a> en <a href="https://unsplash.com/es/fotos/un-letrero-de-neon-con-un-perrito-caliente-ah3HUbmW7Gs?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
       Foto de <a href="https://unsplash.com/es/@nordwood?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">NordWood Themes</a> en <a href="https://unsplash.com/es/fotos/una-persona-montando-una-tabla-de-snowboard-por-una-pendiente-cubierta-de-nieve-KcsKWw77Ovw?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-      
+   
